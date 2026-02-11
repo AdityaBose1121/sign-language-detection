@@ -214,3 +214,9 @@ dataset/
 model/
 
 venv/
+venv_realtime/
+venv_landmarks/
+
+*.npy
+*.h5
+__pycache__/
