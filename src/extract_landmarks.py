@@ -36,6 +36,7 @@ for label_index, label in enumerate(labels):
 
             X.append(data)
             y.append(label_index)
+        
 
             count += 1
 
